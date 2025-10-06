@@ -13,4 +13,4 @@ coverage
 
 # Logs
 *.log
-
+tsconfig.tsbuildinfo
