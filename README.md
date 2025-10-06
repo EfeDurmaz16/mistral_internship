@@ -1,6 +1,8 @@
 # Mistral Memory Chat
 Built by **Efe Baran Durmaz** for **Mistral AI Internship Submission**.
 
+Deployed on https://mistral-internship-git-main-efedurmaz16s-projects.vercel.app/
+
 ## Description
 A minimalist chat app built with Next.js and TypeScript using Mistral’s public API.
 Demonstrates best practices in readability, testability, and architecture.
