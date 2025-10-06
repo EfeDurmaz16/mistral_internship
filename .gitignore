@@ -1,0 +1,16 @@
+node_modules
+.next
+.env
+.env.local
+npm-debug.log*
+.DS_Store
+
+# Tailwind cache
+.tailwind-cache
+
+# Testing coverage
+coverage
+
+# Logs
+*.log
+
